@@ -52,7 +52,7 @@ const Layout: React.FunctionComponent<Props> = ({
                     <span className="sr-only">Commerce Layer</span>
                     <Image
                       className="h-8 w-auto"
-                      src="//data.commercelayer.app/assets/logos/full-logo/black/commercelayer_full_logo_black.svg"
+                      src="/assets/images/logo.png"
                       alt="Commerce Layer Logo"
                       loading="eager"
                       width={200}
